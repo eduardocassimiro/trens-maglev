@@ -1,5 +1,7 @@
 # Aplicações de Eletromagnetismo: Trens Maglev
 
+<iframe src="https://player.vimeo.com/video/709887411?h=7b0fc8d0d0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## Levitação Magnética
 
 A levitação magnética é o processo de suspender no ar algum objeto contra a ação da gravidade utilizando campos magnéticos de ímãs permanentes, elétricos ou supercondutores. O princípio é relativamente simples: quando alinhamos polos semelhantes de campos magnéticos (Sul com Sul, ou Norte com Norte), surge uma força magnética repulsiva entre os magnetos. Entretanto, a força magnética obtida nesses casos não possui módulo suficiente para levitar corpos de pesos muito grandes.
