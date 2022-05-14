@@ -22,3 +22,17 @@ A necessidade de transporte público eficiente, não poluidor e com custos de im
 O sistema MagLev Cobra vale-se das propriedades diamagnéticas dos supercondutores de elevada temperatura crítica Y-Ba-Cu-O e do campo magnético produzido por ímãs de Nd-Fe-B para obter a levitação. Estes materiais só foram produzidos a partir do final do século passado e ainda não existe no mundo nenhum veículo que use esta tecnologia. Isso significa, em outras palavras, que o Brasil está na vanguarda tecnológica, o que nos permitirá galgar um importante degrau no crescimento científico aplicado, uma verdadeira revolução com inúmeros desdobramentos. A tração é obtida através da ação de um motor linear, tecnologia que também abre novas expectativas para o parque industrial brasileiro. Sendo movido pela energia elétrica, cuja produção no Brasil é predominantemente de origem hidráulica, o sistema MagLev Cobra opera sem nenhuma emissão de gases poluentes. Por não depender de atrito mecânico, o sistema MagLev Cobra, além de menor consumo energético, não produz poluição, podendo harmonizar-se com a arquitetura das cidades em vias elevadas, apresentando uma imagem futurista dos locais onde for instalado. 
 
 A Universidade Federal do Rio de Janeiro (UFRJ), em parceria com o instituto Leibiniz (IFW), da Alemanha, comprovou a aplicação desta tecnologia através de modelos funcionais em escala reduzida. Após o enorme sucesso que representaram as demonstrações públicas da tecnologia através dos modelos em escala, a FAPERJ e o BNDES apoiaram o projeto, investindo nas pesquisas que estão em processo de viabilização de um protótipo funcional em escala real.  Este protótipo em escala real operará em uma linha de testes com 223m de extensão em uma área já doada pela prefeitura da Cidade Universitária, ligando os dois Centros de Tecologia. A UFRJ aposta no projeto como uma solução de apelo mundial para a redução dos gases poluentes responsáveis pelo aquecimento global. O investimento na tecnologia é uma decisão estratégica para todo país que reconhecer que o domínio tecnológico será o principal elemento que o diferenciará no futuro, trazendo vantagens econômicas diretas e incontáveis benefícios indiretos.
+
+### Referências:
+- Textos:
+Levitação magnética (Princípio do Maglev). PrePara Enem. Disponível em: https://www.preparaenem.com/fisica/levitacao-magnetica-principio-maglev.htm
+Portal do projeto Maglev-Cobra. Disponível em: http://www.maglevcobra.coppe.ufrj.br/
+- Vídeos Utilizados para a edição:
+The Fastest train ever built | The complete physics of it (Lesics - 16 de jun. de 2021)
+UFRJ é 100 - MagLev (UFRJ É 100 - 20 de jul. de 2017)
+Michael Faraday, o cara do ELETROMAGNETISMO (Mundo da Elétrica - 2020)
+- Imagens: 
+Michael Faraday (Futurism - https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/5e487cc6ad0bcb001cd9273c.jpg)
+Michael Faraday (Socientifica - Michael Faraday: quem foi e o que descobriu (socientifica.com.br))
+- Demais videos:
+Pixabay - Free images, videos and music
