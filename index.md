@@ -32,8 +32,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sFz0c8xd2fA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/707671627?h=e21ce3ad52" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/707671627">Animation Reel 2022 (Stylized)</a> from <a href="https://vimeo.com/darksandwich">Dark Sandwich</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/707671627?h=e21ce3ad52&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### Jekyll Themes
 
