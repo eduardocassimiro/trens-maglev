@@ -32,7 +32,7 @@ Portal do projeto Maglev-Cobra. Disponível em: http://www.maglevcobra.coppe.ufr
 
 - Vídeos Utilizados para a edição:
 
-The Fastest train ever built | The complete physics of it (Lesics - 16 de jun. de 2021)
+The Fastest train ever built. The complete physics of it (Lesics - 16 de jun. de 2021)
 
 UFRJ é 100 - MagLev (UFRJ É 100 - 20 de jul. de 2017)
 
