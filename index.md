@@ -25,14 +25,25 @@ A Universidade Federal do Rio de Janeiro (UFRJ), em parceria com o instituto Lei
 
 ### Referências:
 - Textos:
+
 Levitação magnética (Princípio do Maglev). PrePara Enem. Disponível em: https://www.preparaenem.com/fisica/levitacao-magnetica-principio-maglev.htm
+
 Portal do projeto Maglev-Cobra. Disponível em: http://www.maglevcobra.coppe.ufrj.br/
+
 - Vídeos Utilizados para a edição:
+
 The Fastest train ever built | The complete physics of it (Lesics - 16 de jun. de 2021)
+
 UFRJ é 100 - MagLev (UFRJ É 100 - 20 de jul. de 2017)
+
 Michael Faraday, o cara do ELETROMAGNETISMO (Mundo da Elétrica - 2020)
+
 - Imagens: 
+
 Michael Faraday (Futurism - https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/5e487cc6ad0bcb001cd9273c.jpg)
+
 Michael Faraday (Socientifica - Michael Faraday: quem foi e o que descobriu (socientifica.com.br))
+
 - Demais videos:
+
 Pixabay - Free images, videos and music
